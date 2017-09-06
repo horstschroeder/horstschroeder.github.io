@@ -1,9 +1,5 @@
 ---
 layout: home
-picture: /assets/images/arena2.jpg
----
----
-layout: home
 paginate: true
 alt_title: "alt_title"
 sub_title: "sub_title"
